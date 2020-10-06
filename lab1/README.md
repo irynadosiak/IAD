@@ -1,4 +1,4 @@
-# Lab1
+# lab1
 
 Visualize data from DATABASE.cvs
 
