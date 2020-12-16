@@ -1,4 +1,4 @@
-import lab3 as my_plots
+import plot as my_plots
 import pandas as pd
 from sklearn.linear_model import LinearRegression
 
